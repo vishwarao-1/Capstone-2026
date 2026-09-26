@@ -1,0 +1,4 @@
+kepoi_name,koi_score,koi_prad,koi_depth,koi_period,koi_model_snr,koi_fpflag_nt,koi_fpflag_ss,koi_fpflag_co,koi_fpflag_ec,outlier_flag,predicted_confirmed_probability,priority
+K01296.01,0.565,21.65,32634.0,2.380862632,2590.6,0,1,0,0,1,0.0933333333333333,Low
+K06250.01,0.991,32.99,12319.0,1.853209359,238.9,0,1,0,0,1,0.0166666666666666,Low
+K01539.01,0.488,29.8,71867.0,2.819453322,202.0,0,1,0,0,1,0.0133333333333333,Low

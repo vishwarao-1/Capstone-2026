@@ -1,0 +1,11 @@
+metric,count
+Total candidates,438
+Candidates with any catalog FP flag,3
+Stellar eclipse flag,3
+Centroid offset flag,0
+Ephemeris contamination flag,0
+Not transit-like flag,0
+Prepared-data outlier flag,150
+High screening risk,30
+Medium screening risk,34
+Low screening risk,374

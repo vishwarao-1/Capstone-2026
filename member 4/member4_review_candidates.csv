@@ -1,0 +1,65 @@
+kepid,kepoi_name,koi_disposition,koi_score,predicted_confirmed_probability,koi_prad,koi_depth,koi_period,koi_model_snr,outlier_flag,koi_fpflag_nt,koi_fpflag_ss,koi_fpflag_co,koi_fpflag_ec,catalog_fp_flag_count,eb_indicator,contamination_indicator,artifact_indicator,fp_screening_score,fp_risk,evidence
+12367464,K06250.01,CANDIDATE,0.991,0.0166666666666666,32.99,12319.0,1.853209359,238.9,1,0,1,0,0,1,1,0,1,13,High,Stellar eclipse flag; Very large inferred radius; Very deep transit; Prepared-data outlier
+8081482,K01539.01,CANDIDATE,0.488,0.0133333333333333,29.8,71867.0,2.819453322,202.0,1,0,1,0,0,1,1,0,1,12,High,Stellar eclipse flag; Very large inferred radius; Very deep transit; Prepared-data outlier
+10971674,K01296.01,CANDIDATE,0.565,0.0933333333333333,21.65,32634.0,2.380862632,2590.6,1,0,1,0,0,1,1,0,1,12,High,Stellar eclipse flag; Very large inferred radius; Very deep transit; Prepared-data outlier
+7380537,K00883.01,CANDIDATE,0.997,0.5166666666666667,12.04,37492.0,2.688899233,1011.6,1,0,0,0,0,0,1,0,1,7,High,Very large inferred radius; Very deep transit; Prepared-data outlier
+5297298,K00130.01,CANDIDATE,0.913,0.01,21.95,13715.0,34.193600311,1405.6,1,0,0,0,0,0,1,0,1,7,High,Very large inferred radius; Very deep transit; Prepared-data outlier
+9025971,K03680.01,CANDIDATE,0.999,0.7433333333333333,11.49,12990.0,141.2415405,380.9,1,0,0,0,0,0,1,0,1,7,High,Very large inferred radius; Very deep transit; Prepared-data outlier
+6805414,K05329.01,CANDIDATE,0.999,0.3966666666666666,10.99,10812.0,200.2350497,220.6,1,0,0,0,0,0,1,0,1,7,High,Very large inferred radius; Very deep transit; Prepared-data outlier
+8813698,K01268.01,CANDIDATE,0.996,0.31,13.57,9010.2,268.9410974,120.4,1,0,0,0,0,0,1,0,1,6,High,Very large inferred radius; Deep transit; Prepared-data outlier
+3644071,K01192.01,CANDIDATE,0.334,0.1366666666666666,57.82,8708.0,1295.362215,164.0,1,0,0,0,0,0,1,0,1,6,High,Very large inferred radius; Deep transit; Prepared-data outlier
+7017372,K03689.01,CANDIDATE,1.0,0.6166666666666667,12.74,8531.2,5.24088367,385.7,1,0,0,0,0,0,1,0,1,6,High,Very large inferred radius; Deep transit; Prepared-data outlier
+6716021,K02679.01,CANDIDATE,0.984,0.0233333333333333,29.64,8067.0,110.7556272,48.5,1,0,0,0,0,0,1,0,1,6,High,Very large inferred radius; Deep transit; Prepared-data outlier
+11122894,K01426.03,CANDIDATE,0.999,0.0233333333333333,32.6,4319.7,150.0189511,106.2,1,0,0,0,0,0,1,0,1,6,High,Very large inferred radius; Deep transit; Prepared-data outlier
+2162635,K01032.01,CANDIDATE,0.334,0.1033333333333333,18.35,4129.9,1500.1406772,83.3,1,0,0,0,0,0,1,0,1,6,High,Very large inferred radius; Deep transit; Prepared-data outlier
+8013419,K00901.01,CANDIDATE,1.0,0.8033333333333333,4.87,6465.7,12.732624065,210.5,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+7377343,K05384.01,CANDIDATE,1.0,0.8233333333333334,9.5,6269.4,7.95445779,228.4,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+11818800,K00777.01,CANDIDATE,0.999,0.5666666666666667,7.51,6256.0,40.4195037,36.9,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+3115833,K00797.01,CANDIDATE,1.0,0.51,7.73,5741.1,10.181584004,183.6,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+3534076,K01209.01,CANDIDATE,0.334,0.33,5.95,5572.0,272.0868353,21.5,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+7499398,K01473.01,CANDIDATE,1.0,0.4166666666666667,7.58,5077.8,23.02028478,97.2,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+4544670,K00815.01,CANDIDATE,1.0,0.5933333333333334,7.61,4523.6,34.84398644,76.8,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+10158418,K01784.01,CANDIDATE,0.999,0.5233333333333333,8.8,4413.9,5.007414194,196.6,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+5731623,K01793.01,CANDIDATE,1.0,0.6333333333333333,8.01,3876.1,3.261759866,190.4,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+6507433,K03815.01,CANDIDATE,1.0,0.25,7.27,3583.0,4.7425521,10.9,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+3962440,K01208.01,CANDIDATE,0.334,0.2733333333333333,6.43,3245.9,700.00298217,60.3,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+6607447,K01242.01,CANDIDATE,1.0,0.73,8.48,3215.6,99.6442783,163.2,1,0,0,0,0,0,0,0,1,5,High,Large inferred radius; Deep transit; Prepared-data outlier
+8263187,K07878.01,CANDIDATE,0.175,0.0233333333333333,15.41,2943.0,36.566324,8.1,1,0,0,0,0,0,1,0,1,5,High,Very large inferred radius; Prepared-data outlier; Low model SNR
+9593528,K03939.01,CANDIDATE,1.0,0.0666666666666666,43.81,2098.0,1.88665445,15.8,1,0,0,0,0,0,1,0,1,5,High,Very large inferred radius; Prepared-data outlier
+8197176,K05485.01,CANDIDATE,0.275,0.17,17.37,1527.0,9.3589254,8.9,1,0,0,0,0,0,1,0,1,5,High,Very large inferred radius; Prepared-data outlier; Low model SNR
+7458743,K05393.01,CANDIDATE,0.334,0.0,18.92,704.0,248.421771,8.8,1,0,0,0,0,0,1,0,1,5,High,Very large inferred radius; Prepared-data outlier; Low model SNR
+10809888,K05830.01,CANDIDATE,0.334,0.1,11.19,245.8,72.782432,8.5,1,0,0,0,0,0,1,0,1,5,High,Very large inferred radius; Prepared-data outlier; Low model SNR
+10002261,K00959.01,CANDIDATE,0.729,0.6266666666666667,2.31,36719.0,12.713794177,2981.3,1,0,0,0,0,0,1,0,1,4,Medium,Very deep transit; Prepared-data outlier
+9904059,K00145.01,CANDIDATE,1.0,0.04,39.0,1896.7,102.9641952,86.1,1,0,0,0,0,0,1,0,1,4,Medium,Very large inferred radius; Prepared-data outlier
+8684730,K00319.01,CANDIDATE,0.998,0.7033333333333334,10.02,1817.3,46.15119482,286.0,1,0,0,0,0,0,1,0,1,4,Medium,Very large inferred radius; Prepared-data outlier
+8765560,K03891.01,CANDIDATE,1.0,0.02,78.98,752.2,47.1096306,35.1,1,0,0,0,0,0,1,0,1,4,Medium,Very large inferred radius; Prepared-data outlier
+9111849,K02042.01,CANDIDATE,0.994,0.1,17.8,671.3,63.0732241,30.0,1,0,0,0,0,0,1,0,1,4,Medium,Very large inferred radius; Prepared-data outlier
+7440715,K05390.01,CANDIDATE,0.334,0.0866666666666666,5.13,652.2,104.198102,8.9,1,0,0,0,0,0,0,0,1,4,Medium,Large inferred radius; Prepared-data outlier; Low model SNR
+4241238,K05048.01,CANDIDATE,0.334,0.0333333333333333,6.28,603.6,138.333748,8.4,1,0,0,0,0,0,0,0,1,4,Medium,Large inferred radius; Prepared-data outlier; Low model SNR
+9635520,K07205.01,CANDIDATE,0.779,0.0433333333333333,39.82,576.6,2.3518268,24.5,1,0,0,0,0,0,1,0,1,4,Medium,Very large inferred radius; Prepared-data outlier
+9481235,K05685.01,CANDIDATE,0.334,0.1666666666666666,17.96,376.1,14.0019064,11.6,1,0,0,0,0,0,1,0,1,4,Medium,Very large inferred radius; Prepared-data outlier
+5394585,K05158.01,CANDIDATE,0.334,0.01,4.41,358.0,151.13008,4.6,1,0,0,0,0,0,0,0,1,4,Medium,Large inferred radius; Prepared-data outlier; Low model SNR
+4750962,K05083.01,CANDIDATE,0.334,0.06,8.25,264.4,69.932459,8.4,1,0,0,0,0,0,0,0,1,4,Medium,Large inferred radius; Prepared-data outlier; Low model SNR
+6756369,K05322.01,CANDIDATE,0.334,0.06,8.1,203.3,30.928898,8.5,1,0,0,0,0,0,0,0,1,4,Medium,Large inferred radius; Prepared-data outlier; Low model SNR
+9173014,K05633.01,CANDIDATE,0.334,0.0066666666666666,4.35,189.7,151.77884,8.2,1,0,0,0,0,0,0,0,1,4,Medium,Large inferred radius; Prepared-data outlier; Low model SNR
+4820550,K03823.01,CANDIDATE,1.0,0.44,5.8,2701.2,202.1168173,56.3,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+9147029,K05626.01,CANDIDATE,0.334,0.28,6.57,2629.7,397.499229,34.8,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+12105051,K00141.01,CANDIDATE,1.0,0.7666666666666667,5.11,2607.0,2.624234833,361.1,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+6766634,K01375.01,CANDIDATE,0.677,0.4366666666666666,7.25,2358.6,321.2124365,81.7,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+8630788,K01258.03,CANDIDATE,0.96,0.6133333333333333,4.3,1707.4,148.272013,21.8,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+5196864,K02695.01,CANDIDATE,1.0,0.0266666666666666,20.23,1156.0,2.50343279,13.2,0,0,0,0,0,0,1,0,0,3,Medium,Very large inferred radius
+3248501,K02052.01,CANDIDATE,1.0,0.1633333333333333,4.31,987.0,4.22464216,7.7,0,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Low model SNR
+6516185,K02445.01,CANDIDATE,0.989,0.4133333333333333,11.97,757.0,47.3659328,16.0,0,0,0,0,0,0,1,0,0,3,Medium,Very large inferred radius
+9571186,K03313.01,CANDIDATE,1.0,0.0233333333333333,21.74,677.0,34.9524256,15.8,0,0,0,0,0,0,1,0,0,3,Medium,Very large inferred radius
+10471621,K02554.01,CANDIDATE,0.582,0.1166666666666666,13.72,621.8,39.7557642,10.2,0,0,0,0,0,0,1,0,0,3,Medium,Very large inferred radius
+4172013,K02386.01,CANDIDATE,1.0,0.14,28.42,468.0,16.2707207,13.0,0,0,0,0,0,0,1,0,0,3,Medium,Very large inferred radius
+6699368,K01694.01,CANDIDATE,0.874,0.0366666666666666,20.23,465.5,3.690317047,43.0,0,0,0,0,0,0,1,0,0,3,Medium,Very large inferred radius
+10003058,K04519.01,CANDIDATE,0.898,0.21,5.97,404.4,148.568877,11.6,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+9214176,K05640.01,CANDIDATE,0.334,0.0166666666666666,9.56,391.2,348.665961,10.8,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+5894182,K07750.01,CANDIDATE,0.322,0.0633333333333333,5.03,385.3,494.485085,13.9,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+5115688,K06526.01,CANDIDATE,0.334,0.04,9.3,370.8,486.77832,10.4,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+11443757,K08054.01,CANDIDATE,0.995,0.3233333333333333,7.33,297.8,43.9088053,13.7,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+8376848,K04007.01,CANDIDATE,0.964,0.01,25.01,291.5,11.4927112,18.7,0,0,0,0,0,0,1,0,0,3,Medium,Very large inferred radius
+11391755,K02639.02,CANDIDATE,0.334,0.1466666666666666,5.75,263.9,2.121023807,6.4,0,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Low model SNR
+10670112,K07360.01,CANDIDATE,0.334,0.0866666666666666,7.76,226.8,4.0953585,60.2,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
+8890924,K04269.01,CANDIDATE,0.998,0.6333333333333333,4.15,163.4,26.6565737,18.8,1,0,0,0,0,0,0,0,1,3,Medium,Large inferred radius; Prepared-data outlier
